@@ -5,36 +5,47 @@ What is included in Protect Advantage?
    Want to protect 1 device?
 Protect Advantage for 1
 • 2 claims for accidental damage from handling (ADH)* per consecutive 12 month period
+
 • 3 claims for physical damage (excluding ADH), loss and theft per consecutive 12 month period
+
 • Unlimited screen repairs, battery replacements and out of warranty malfunction claims
+
 • ProTech support
+
 More than 1 device to protect?
 Protect Advantage for 4 (covers up to 4 eligible devices)
 • 6 shared claims for accidental damage from handling (ADH) per consecutive 12 month period
+
 • 8 shared claims for physical damage (excluding ADH), loss and theft per consecutive 12 month period
+
 • Unlimited screen repairs, battery replacements and out of warranty malfunction claims
+
 • ProTech support
+
 Protect Advantage apps
 For on the go tech support and access to your benefits at anytime, download the AT&T ProTech app at att.com/getprotech.
 Unlimited photo storage
 Get unlimited storage and backup for all of your photos and videos with the AT&T Photo Storage app1
 Free up space with the AT&T Photo Storage app
 • Automatically back up your photos and videos without sacrificing quality.
+
 • Your entire photo collection is at your fingertips, and ready to edit and share.
+
 Download the Photo Storage app through the Apple store or Google Play
 *Accidental damage from handling refers to the accidental damage that can occur while handling the device during normal use, including cracks, drops, and spills.
 1AT&T ProTechSM app: The ProTech app and Photo Storage app require a compatible device with AT&T wireless service. Technical limits may prevent certain features from working on all devices. App functionality requires the device to be powered on and connected to the internet. Accuracy, availability and timeliness are not guaranteed. Free versions of the apps with limited features are also available. Data charges may apply. ProTech app and Photo Storage app provided by Asurion Mobile Applications, LLC. Only available for devices running iOS 9.0 and up, or Android 5.0 and up. For additional details, as well as full terms and conditions, go to att.com/protech.
 Unlimited Eligible Screen and Malfunction Repairs
-As soon as same-day repair for eligible devices in select areas. Pay only a $29 service fee each time you need it.2
-Unlimited Battery Replacements
-Keep your phone running at its best. If your battery isn’t working as it should, a ProTech will test it and let you know if the battery is eligible for replacement.3
-Same Day Replacement and Setup
-Losing or breaking your device shouldn’t ruin your day. Get your replacement device delivered and set up as soon as the same day.4
-ProTech Support
+
+As soon as same-day repair for eligible devices in select areas. Pay only a $29 service fee each time you need it
+.2 Unlimited Battery Replacements
+Keep your phone running at its best. If your battery isn’t working as it should, a ProTech will test it and let you know if the battery is eligible for replacement.
+3 Same Day Replacement and Setup
+Losing or breaking your device shouldn’t ruin your day. Get your replacement device delivered and set up as soon as the same day.
+4 ProTech Support
 Get help from our team of ProTech experts – so you can keep talking, streaming, watching or playing.
 Unlimited Photo and Video Storage
-Never miss a moment with unlimited storage and secure backup with the AT&T Photo Storage app.5
-Performance Promise
+Never miss a moment with unlimited storage and secure backup with the AT&T Photo Storage app.
+5 Performance Promise
 Keep your device working its best with periodic checkups and in-person sessions to improve speed, signal and battery performance.
 Streaming Support
 Setup and optimize AT&T streaming services for the best entertainment experience.
@@ -69,9 +80,9 @@ $8.75/mo.
 $7.50/mo.
      Claim Limits
 Insurance Claim Limits:
-Maximum of 3 claims within any 12 consecutive month period with a maximum device value of $3,500 per occurrence.
+Maximum of 3 claims within any 12 consecutive month period with a maximum device value of $ 3,500 per occurrence.
 Extended Service Contract Claim Limits:
-2 claims for accidental damage from handling within anyconsecutive12monthperiod. Unlimitedrepairs or replacements for screen and out of warranty malfunction claims, including battery replacements. Maximum device value of $3,500 per occurrence.
+2 claims for accidental damage from handling within anyconsecutive12monthperiod. Unlimitedrepairs or replacements for screen and out of warranty malfunction claims, including battery replacements. Maximum device value of $ 3,500 per occurrence.
  Device Tiers 1-4
 $45/mo.*
  $10/mo.
@@ -80,9 +91,9 @@ $14/mo.
   $21/mo.
   Claim Limits
 Insurance Claim Limits:
-Maximum of 8 shared claims within any 12 consecutive month period with a maximum device value of $3,500 per occurrence.
+Maximum of 8 shared claims within any 12 consecutive month period with a maximum device value of $ 3,500 per occurrence.
 Extended Service Contract Claim Limits:
-6 shared claims for accidental damage from handling withinanyconsecutive12monthperiod. Unlimited repairs or replacements for screen and out of warranty malfunction claims, including battery replacements. Maximum device value of $3,500 per occurrence.
+6 shared claims for accidental damage from handling withinanyconsecutive12monthperiod. Unlimited repairs or replacements for screen and out of warranty malfunction claims, including battery replacements. Maximum device value of $ 3,500 per occurrence.
   Additional Information (both plans)
  Coverage
 Protect Insurance: Loss, theft, and physical damage (excluding ADH). Protect Extended Service Contract: Accidental Damage from Handling (ADH), unlimited screen repair or screen replacement claims, battery replacement, and out of warranty malfunctions (mechanical and electrical failure). For coverage to apply to a connected device, you must own or lease the device, and have used the device (logged use of voice or data) on your wireless number after enrollment. Coverage applies to the most recently used device on your wireless number.
