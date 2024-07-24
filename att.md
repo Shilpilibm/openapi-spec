@@ -1,5 +1,5 @@
 # AT&T Protect Advantage
-It is an insurance bt AT&T to protect your device if it’s ever broken, lost, or stolen.
+It is an insurance bt AT&T to protect your device if it's ever broken, lost, or stolen.
 The monthly charge for Protect Advantage includes the cost of insurance provided in the program.
 
 ## Coverage
@@ -26,7 +26,7 @@ When you activate your own device on the AT&T network, it may be eligible for de
 Replacement options may vary. Not all devices are eligible for enrollment in the program.
 
 ## Enrollment period
-You must enroll within 30 days of new activation or device upgrade except during one of AT&T’s open enrollment periods. You can switch your already-enrolled number to a different plan at any time, if eligible. To enroll, ask your sales rep for more information or go to att.com/protectadvantage
+You must enroll within 30 days of new activation or device upgrade except during one of AT&T's open enrollment periods. You can switch your already-enrolled number to a different plan at any time, if eligible. To enroll, ask your sales rep for more information or go to att.com/protectadvantage
 
 ## Coverage is optional
 Insurance and service contract coverage is optional and you are not required to enroll in these programs in order to purchase services or equipment. Program enrollment and device repair/replacement authorization shall be at the sole discretion of: Continental Casualty Company, a CNA member company; Asurion, the plan administrator; or any other authorized representative of CNA in accordance with the terms of the Coverage Certificate and applicable law.
