@@ -12,11 +12,11 @@ Enrollment in these programs will continue to renew monthly on your AT&T wireles
 A non-refundable deductible/service fee will be charged for each approved claim. Deductible/service fee amounts are based on device tiers. 
 
 ## Covered devices
-Phone – Includes the device and battery, and if part of the loss, battery charger and SIM.
-Wireless Home Phone – Includes the device plus power cord, back up battery, phone cable and SIM.
-Tablet – Includes tablet plus battery, charger and SIM (for non-Wi-Fi only).
-Connected Laptop – includes laptop, standard battery, and battery charger.
-Watch – Includes device, battery, charger and SIM. (Only watches with their own wireless number and SIM can be covered.)
+Phone - Includes the device and battery, and if part of the loss, battery charger and SIM.
+Wireless Home Phone - Includes the device plus power cord, back up battery, phone cable and SIM.
+Tablet - Includes tablet plus battery, charger and SIM (for non-Wi-Fi only).
+Connected Laptop - includes laptop, standard battery, and battery charger.
+Watch - Includes device, battery, charger and SIM. (Only watches with their own wireless number and SIM can be covered.)
 
 ## If you bring your own device
 When you activate your own device on the AT&T network, it may be eligible for device protection.
