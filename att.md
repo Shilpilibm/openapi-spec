@@ -20,10 +20,10 @@ Watch - Includes device, battery, charger and SIM. (Only watches with their own 
 
 ## If you bring your own device
 When you activate your own device on the AT&T network, it may be eligible for device protection.
-• You have 30 days to enroll from the date you activated AT&T wireless service.
-• The device must be in good working condition.
-• If your device make/model is or has been sold by AT&T, the applicable deductible/service fee applies. For a non-AT&T device make/model, the deductible/service fee in Device Tier 2 applies.
-Replacement options may vary. Not all devices are eligible for enrollment in the program.
+You have 30 days to enroll from the date you activated AT&T wireless service.
+The device must be in good working condition.
+*If your device make/model is or has been sold by AT&T, the applicable deductible/service fee applies. For a non-AT&T device make/model, the *deductible/service fee in Device Tier 2 applies.
+*Replacement options may vary. Not all devices are eligible for enrollment in the program.
 
 ## Enrollment period
 You must enroll within 30 days of new activation or device upgrade except during one of AT&T's open enrollment periods. You can switch your already-enrolled number to a different plan at any time, if eligible. To enroll, ask your sales rep for more information or go to att.com/protectadvantage
